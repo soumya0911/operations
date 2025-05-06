@@ -1,5 +1,3 @@
-package ArithmeticOps;
-
 public class DivisionOperations {
     public static void main(String[] args) {
         int a=15;
